@@ -5,13 +5,13 @@ const Home: NextPage = () => {
   return (
     <>
       <Head>
-        <title>Next.js v12.2 Router bug demo</title>
+        <title>Next.js v12.2.3 Router bug demo</title>
         <meta name="description" content="Next.js v12.2 Router bug demo" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <section>
-        <h1>Next.js v12.2 router bug demo</h1>
-        <p>This is an app to demo the Next.js v12.2 router bug.</p>
+        <h1>Next.js v12.2.3 router bug demo</h1>
+        <p>This is an app to demo the Next.js router bug.</p>
         <p>
           Open the browser console and navigate to <a href="/nieuws">/nieuws</a>{" "}
           to see the error.
