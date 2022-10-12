@@ -12,6 +12,7 @@ const Home: NextPage = () => {
       <section>
         <h1>Next.js v12.2+ router bug demo</h1>
         <p>This is an app to demo the Next.js router bug.</p>
+        <p>Fixed in version next@12.3.2-canary.25.</p>
         <p>
           Open the browser console and navigate to <a href="/nieuws">/nieuws</a>{" "}
           to see the error.
